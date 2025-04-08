@@ -1,3 +1,21 @@
+# Conversor PDF para ZPL
+
+Ferramenta para converter arquivos PDF em formato ZPL para impressoras térmicas.
+
+## Requisitos
+
+- Python 3.x
+- Poppler para Windows
+- Bibliotecas Python (requirements.txt)
+
+## Instalação
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+cd NOME-DO-REPO
+```
+
 ### Instalar Python
 - (https://www.python.org/downloads/)
 
