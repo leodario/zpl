@@ -1,0 +1,10 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de teste
+pdf_input/*
+zpl_output/*
+!pdf_input/.gitkeep
+!zpl_output/.gitkeep
